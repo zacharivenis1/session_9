@@ -7,3 +7,4 @@ with open("journal.txt","a") as journal:
             break
         journal.write(text.capitalize()+"\n")
 
+
